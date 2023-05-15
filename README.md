@@ -1,5 +1,6 @@
 
-### 👋 Hi there, This is Hao (Henry) Yu
+### 👋 Hi there
+### This is Hao (Henry) Yu
 
 I'm a graduate student at Northeastern University, majoring in Computer and Software Engineering. Currently, I'm working as a **Software Engineer Intern** at **[1Thing.Org](https://www.1thing.org/)** Sunnyvale, CA, a non-profit anti-Asian-hate organization. And I'm also going to have a **Full-time Software Dev Engineer internship** in Fall at **[Amazon.Inc](https://www.aboutamazon.com/)** Seattle, WA. 
 
