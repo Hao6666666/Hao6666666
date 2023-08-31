@@ -33,6 +33,3 @@ I've gained great experience in backend infrastructure and cloud computing. One 
 I'm a good team member who takes responsibility for the team leader. I have a great sense of cooperation, and I always help my teammates whenever they face any difficulties. I believe in the power of teamwork and enjoy working with others to achieve a common goal. I'm confident that my skills, experience, and passion will make me a valuable addition to any team.
 
 ----------------------
-### 📫 Contact Me
-- 📫 How to reach me: [yuhaoo666@gmail.com](yuhaoo666@gmail.com)
-- 😄 Pronouns: He/Him/His
